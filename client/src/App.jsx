@@ -7,7 +7,7 @@ import { useEffect } from 'react';
 import { useDispatch } from 'react-redux';
 import { setUserData } from './redux/userSlice.js';
 import InterviewPage from './pages/InterviewPage.jsx'
-import Step1SetUp from './components/Step1Setup.jsx'
+import Step1SetUp from './components/Step1SetUp.jsx'
 import Step2Interview from './components/Step2Interview.jsx'
 import Step3Report from './components/Step3Report.jsx'
 import ViewHistory from './pages/InterviewHistory.jsx'
